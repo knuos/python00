@@ -1,3 +1,3 @@
 # python00
 
-Write a python program in [test.py] to present "Hello Python!".
+Write a python program in [test.py] to print "Hello Python!".
